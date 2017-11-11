@@ -5711,4 +5711,79 @@ Localization Resource: (C:/Program Files/Epic Games/UE_4.8/Engine/Content/Locali
 [2017.11.11-23.41.36:424][306]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012782s)
 [2017.11.11-23.41.36:425][306]LogAIModule: Creating AISystem for world TwinStickExampleMap
 [2017.11.11-23.41.36:426][306]LogPlayLevel: PIE: World Init took: (0.001662s)
-[2017.11.11-23.41.36:426][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampl
+[2017.11.11-23.41.36:426][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.014693s)
+[2017.11.11-23.41.36:480][306]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.11-23.41.36:488][306]LogInit: FAudioDevice initialized.
+[2017.11.11-23.41.36:534][306]LogWorld: Game class is 'TwinStickGameMode_C'
+[2017.11.11-23.41.36:544][306]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2017.11.11-23.41.36:544][306]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2017.11.11-18.41.36
+[2017.11.11-23.41.36:544][306]LogActor:Warning: GameSession /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.GameSession_56 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2017.11.11-23.41.36:545][306]LogActor:Warning: GameNetworkManager /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.GameNetworkManager_59 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2017.11.11-23.41.36:547][306]LogWorld: Bringing up level for play took: 0.010801
+[2017.11.11-23.41.36:549][306]PIE: Info Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap -0.523
+[2017.11.11-23.41.41:185][851]LogBlueprintUserMessages: AiCharacter12
+[2017.11.11-23.41.41:212][854]LogBlueprintUserMessages: start
+[2017.11.11-23.41.41:713][914]LogBlueprintUserMessages: Fire!
+[2017.11.11-23.41.42:217][974]LogBlueprintUserMessages: Fire!
+[2017.11.11-23.41.42:718][ 34]LogBlueprintUserMessages: Fire!
+[2017.11.11-23.41.43:212][ 93]LogBlueprintUserMessages: Fire!
+[2017.11.11-23.41.43:713][153]LogBlueprintUserMessages: Fire!
+[2017.11.11-23.41.44:214][213]LogBlueprintUserMessages: Fire!
+[2017.11.11-23.41.44:713][272]LogBlueprintUserMessages: Fire!
+[2017.11.11-23.41.45:215][332]LogBlueprintUserMessages: Fire!
+[2017.11.11-23.41.45:719][392]LogBlueprintUserMessages: Fire!
+[2017.11.11-23.41.46:190][448]LogBlueprintUserMessages: AiCharacter13
+[2017.11.11-23.41.46:214][451]LogBlueprintUserMessages: Fire!
+[2017.11.11-23.41.46:215][451]LogBlueprintUserMessages: start
+[2017.11.11-23.41.46:717][511]LogBlueprintUserMessages: Fire!
+[2017.11.11-23.41.46:718][511]LogBlueprintUserMessages: Fire!
+[2017.11.11-23.41.47:219][571]LogBlueprintUserMessages: Fire!
+[2017.11.11-23.41.47:219][571]LogBlueprintUserMessages: Fire!
+[2017.11.11-23.41.47:712][630]LogBlueprintUserMessages: Fire!
+[2017.11.11-23.41.47:720][631]LogBlueprintUserMessages: Fire!
+[2017.11.11-23.41.48:214][690]LogBlueprintUserMessages: Fire!
+[2017.11.11-23.41.48:222][691]LogBlueprintUserMessages: Fire!
+[2017.11.11-23.41.48:716][750]LogBlueprintUserMessages: Fire!
+[2017.11.11-23.41.48:716][750]LogBlueprintUserMessages: Fire!
+[2017.11.11-23.41.49:218][810]LogBlueprintUserMessages: Fire!
+[2017.11.11-23.41.49:218][810]LogBlueprintUserMessages: Fire!
+[2017.11.11-23.41.49:719][870]LogBlueprintUserMessages: Fire!
+[2017.11.11-23.41.49:719][870]LogBlueprintUserMessages: Fire!
+[2017.11.11-23.41.50:219][929]LogBlueprintUserMessages: Fire!
+[2017.11.11-23.41.50:219][929]LogBlueprintUserMessages: Fire!
+[2017.11.11-23.41.50:580][961]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000002A72A666DE0
+[2017.11.11-23.43.28:575][552]LogD3D11RHI: InitD3DDevice
+[2017.11.11-23.43.28:597][552]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2017.11.11-23.43.28:597][552]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_160) Not registered. Aborting.
+[2017.11.11-23.43.28:597][552]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_161) Not registered. Aborting.
+[2017.11.11-23.43.28:597][552]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_162) Not registered. Aborting.
+[2017.11.11-23.43.28:597][552]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_8) Not registered. Aborting.
+[2017.11.11-23.43.28:598][552]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_163) Not registered. Aborting.
+[2017.11.11-23.43.28:598][552]LogActorComponent: UnregisterComponent: (/Engine/Transient.PawnSensingAAF9AC7F694184D6E2983C8441C4E968) Not registered. Aborting.
+[2017.11.11-23.43.28:598][552]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_164) Not registered. Aborting.
+[2017.11.11-23.43.28:598][552]LogActorComponent: UnregisterComponent: (/Engine/Transient.PawnSensingB2F0E4C4194BE0624EF90CAE64E37BD1) Not registered. Aborting.
+[2017.11.11-23.43.29:069][552]LogSavePackage: Save=379.572601ms
+[2017.11.11-23.43.29:069][552]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal/TwoDeeTopDown/Saved/TwinStickExampleMap7E5D80D64AD5C206C00273AF2971F7F8.tmp' to '../../../../../../Users/Max/Desktop/Unreal/TwoDeeTopDown/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2017.11.11-23.43.52:011][648]LogD3D11RHI: InitD3DDevice
+[2017.11.11-23.43.52:047][648]LogD3D11RHI: InitD3DDevice
+[2017.11.11-23.43.52:108][648]LogLinker:Warning: Asset '../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureMacros.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.11.11-23.43.52:117][648]LogLinker:Warning: Asset '../../../Engine/Content/ArtTools/RenderToTexture/Enums/RenderToTexture_Enum.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.11.11-23.43.54:625][775]BlueprintLog: New page: Compile BP_Spawn_Enemy_PT
+[2017.11.11-23.43.54:719][775]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2017.11.11-23.43.54:719][775]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_165) Not registered. Aborting.
+[2017.11.11-23.43.54:719][775]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_166) Not registered. Aborting.
+[2017.11.11-23.43.54:719][775]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_8) Not registered. Aborting.
+[2017.11.11-23.43.54:719][775]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_167) Not registered. Aborting.
+[2017.11.11-23.43.54:719][775]LogActorComponent: UnregisterComponent: (/Engine/Transient.PawnSensingAAF9AC7F694184D6E2983C8441C4E968) Not registered. Aborting.
+[2017.11.11-23.43.54:719][775]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_168) Not registered. Aborting.
+[2017.11.11-23.43.54:719][775]LogActorComponent: UnregisterComponent: (/Engine/Transient.PawnSensingB2F0E4C4194BE0624EF90CAE64E37BD1) Not registered. Aborting.
+[2017.11.11-23.43.54:785][775]BlueprintEditorCompileResults: Info [0647.17] Compile of BP_Spawn_Enemy_PT successful! [in 160 ms]
+[2017.11.11-23.43.55:468][815]LogD3D11RHI: InitD3DDevice
+[2017.11.11-23.43.55:558][815]LogSavePackage: Save=35.986214ms
+[2017.11.11-23.43.55:558][815]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal/TwoDeeTopDown/Saved/BP_Spawn_Enemy_PTF9342EA14710F9AB576154A635916EF4.tmp' to '../../../../../../Users/Max/Desktop/Unreal/TwoDeeTopDown/Content/TwinStickBP/Blueprints/BP_Spawn_Enemy_PT.uasset'
+[2017.11.11-23.43.57:040][898]LogD3D11RHI: InitD3DDevice
+[2017.11.11-23.43.57:891][945]LogD3D11RHI: InitD3DDevice
+[2017.11.11-23.43.58:601][981]LogD3D11RHI: InitD3DDevice
+[2017.11.11-23.43.58:623][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Blueprints/BP_Projectile" FILE="../../../../../../Users/Max/Desktop/Unreal/TwoDeeTopDown/Content/TwinStickBP/Blueprints/BP_Projectile.uasset" SILENT=true
+[2017.11.11-23.43.58:706][981]LogSavePackage: Save=48.376621ms
+[2017.11.11-23.43.58:706][981]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Unreal/TwoDeeTopDown/Saved/BP_ProjectileCE1CD086445AEFB457601B8D5809D3DC.tmp
